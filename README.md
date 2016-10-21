@@ -9,6 +9,7 @@ Spyder, version 2.3.9
 PyQt4, version 4.11.4
 
 ## Project 1: Simple YAHOO financial GUI
+Complete the open course Data Processing Using Python on Coursera.   
 Using PyQt4 to realize the comprehensive practice project of data processing using Python by Nanjing university on Coursera.   
 Here are two versions of financial GUI.   
 The original one is created by Nanjing university using wxPython.   
