@@ -1,6 +1,13 @@
 # PyQt4
 Learning PyQt4
 
+## Development Environment
+OS X Yosemite, version 10.10.5   
+Python, version 3.5.2   
+Anaconda Navigator, version 1.2.1   
+Spyder, version 2.3.9   
+PyQt4, version 4.11.4
+
 ## Project 1: Simple YAHOO financial GUI
 Using PyQt4 to realize the comprehensive practice project of data processing using Python by Nanjing university on Coursera.   
 Here are two versions of financial GUI.   
